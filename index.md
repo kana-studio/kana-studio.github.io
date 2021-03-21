@@ -1,3 +1,0 @@
-# kana blog
-
-test
