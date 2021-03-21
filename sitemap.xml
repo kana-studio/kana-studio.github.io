@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://news.oekaki.chat/tags/blog/</loc>
+    <lastmod>2021-03-21T11:08:07-07:00</lastmod>
+  </url><url>
+    <loc>https://news.oekaki.chat/</loc>
+    <lastmod>2021-03-21T11:08:07-07:00</lastmod>
+  </url><url>
+    <loc>https://news.oekaki.chat/post/</loc>
+    <lastmod>2021-03-21T11:08:07-07:00</lastmod>
+  </url><url>
+    <loc>https://news.oekaki.chat/tags/</loc>
+    <lastmod>2021-03-21T11:08:07-07:00</lastmod>
+  </url><url>
+    <loc>https://news.oekaki.chat/post/new/</loc>
+    <lastmod>2021-03-21T11:08:07-07:00</lastmod>
+  </url><url>
+    <loc>https://news.oekaki.chat/categories/</loc>
+  </url>
+</urlset>
