@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on news.oekaki.chat</title>
-    <link>https://news.oekaki.chat/post/</link>
-    <description>Recent content in Posts on news.oekaki.chat</description>
+    <title>お絵かきバトル on news.oekaki.chat</title>
+    <link>https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/</link>
+    <description>Recent content in お絵かきバトル on news.oekaki.chat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 04:41:12 -0700</lastBuildDate><atom:link href="https://news.oekaki.chat/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 04:41:12 -0700</lastBuildDate><atom:link href="https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サービス利用規約</title>
       <link>https://news.oekaki.chat/post/agreement/</link>
@@ -35,15 +35,6 @@
 第1条 個人情報の定義 「個人情報」とは，個人情報保護法にいう「個人情報」を指すものとし，生存する個人に関する情報であって，当該情報に含まれる氏名，生年月日，住所，電話番号，連絡先その他の記述等により特定の個人を識別できる情報及び容貌，指紋，声紋にかかるデータ，及び健康保険証の保険者番号などの当該情報単体から特定の個人を識別できる情報（個人識別情報）を指します。IPアドレス、本サービス内でのニックネーム（以下,「ニックネーム」といいます。）については、個人情報とは考えていません。
 第2条 個人情報の収集について 当社は，ユーザーが本サービスを利用する際に、個人情報を収集しません。
 第4条 プライバシーポリシーの変更 本ポリシーの内容は，法令その他本ポリシーに別段の定めのある事項を除いて，ユーザーに通知することなく，変更することができるものとします。 当社が別途定める場合を除いて，変更後のプライバシーポリシーは，本ウェブサイトに掲載したときから効力を生じるものとします。</description>
-    </item>
-    
-    <item>
-      <title>ブログを作成しました</title>
-      <link>https://news.oekaki.chat/post/new/</link>
-      <pubDate>Sun, 21 Mar 2021 11:08:07 -0700</pubDate>
-      
-      <guid>https://news.oekaki.chat/post/new/</guid>
-      <description>( ｀・∀・´)ﾉﾖﾛｼｸ</description>
     </item>
     
   </channel>
