@@ -5,7 +5,22 @@
     <link>https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/</link>
     <description>Recent content in お絵かきバトル on news.oekaki.chat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Mar 2021 04:41:12 -0700</lastBuildDate><atom:link href="https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 12:06:12 -0700</lastBuildDate><atom:link href="https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>お絵かきバトルを更新しました[ver3.0.0]</title>
+      <link>https://news.oekaki.chat/post/oekaki_update_03/</link>
+      <pubDate>Thu, 25 Mar 2021 12:06:12 -0700</pubDate>
+      
+      <guid>https://news.oekaki.chat/post/oekaki_update_03/</guid>
+      <description>お絵かきバトルをアップデートしました。 たぶん3/27か28日に反映されると思います。
+変更点 今回のアップデートの主な変更点は次の通りです。
+ スプラッシュ画面の追加 ゲームの初回起動時に利用規約の確認を求めるように フレンド機能の一時的な削除 共有URLが機能していない問題を修正しました 試験的に広告を設置しました ゲーム専用部屋 メニュー画面からゲーム専用部屋にすぐに入れるように レビューを書くように勧めるダイアログを無くしました  フレンド機能について 今回のアップデートでは、現在作成中の掲示板機能のためにユーザー管理システムの刷新を行いました。それに伴い、すべてのユーザーのフレンドのデータをリセットしました。非常に申し訳ございませんが、ご理解いただけますと幸いです。 次回のアップデートで掲示板とともに、フレンド機能を復帰させる予定です。
+広告の設置 去年中旬のアップデート以降、レイヤー毎の画像とサムネイル画像を頻繁に更新し続けているため、サーバーのコストが上がっていました(月3千円くらい)。
+広告の設置は、サーバー代を補えるかの検証のためのものになります。
+今後のアップデートについて 4月前半には絵のバックアップ/画像の貼り付け/定規/絵の投稿などの機能を作成する予定です。
+4月以降は大学が始まってしまうので、更新頻度は低くなると思います(&#39;ω&#39;)</description>
+    </item>
+    
     <item>
       <title>サービス利用規約</title>
       <link>https://news.oekaki.chat/post/agreement/</link>
