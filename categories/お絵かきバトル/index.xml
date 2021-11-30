@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>お絵かきバトル on news.oekaki.chat</title>
     <link>https://news.oekaki.chat/categories/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%90%E3%83%88%E3%83%AB/</link>

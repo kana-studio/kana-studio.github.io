@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://news.oekaki.chat/sitemap.xml
